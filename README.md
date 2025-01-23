@@ -1,0 +1,1 @@
+This project solves the Vehicle Routing Problem (VRP) using genetic algorithms with the DEAP library. It optimizes routes for delivering goods by evolving potential solutions through selection, crossover, and mutation. To get started, install DEAP with `pip install deap` and run the application using `python main.py`.
